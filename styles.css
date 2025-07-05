@@ -41,8 +41,8 @@
             font-weight: bold;
             color: #FF6B6B;
             text-decoration: none;
-            height: 60px; /* adjust as needed */
-            width: auto;
+            height: 40px; /* adjust as needed */
+            width: 40px;
         }
 
         .nav-links {
