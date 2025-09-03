@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://natashagarg.github.io/AUA-Associates/sitemap.xml
